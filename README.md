@@ -42,7 +42,7 @@ TODO card graph from flourish with presidents heads and on click display the vol
 
 TODO : graph Elsa  election mais changer cumulative abnormal returns en volatility
 
-<iframe src="graphs/party_impact_analysis" width="100%" height="700px" style="border:none;"></iframe>
+<iframe src="graphs/party_impact_analysis" width="100%" height="750px" style="border:none;"></iframe>
 
 ## Regression on volatility
 
