@@ -19,6 +19,8 @@ Our goal is to show how politics and markets move together in a clear, data-driv
 TODO mettre graph Elsa correlation avec cumulative returns
 ![Correlation graph by sector with interraction](pictures/graph_sectors.png)
 
+<iframe src="graphs/interactive_dashboard.html" width="100%" height="500px" style="border:none;"></iframe>
+
 
 ## What is volatility
 -> talk about the math and abnormal volatility
@@ -39,6 +41,8 @@ TODO card graph from flourish with presidents heads and on click display the vol
 ## Impact of elections on volatility
 
 TODO : graph Elsa  election mais changer cumulative abnormal returns en volatility
+
+<iframe src="graphs/party_impact_analysis" width="100%" height="500px" style="border:none;"></iframe>
 
 ## Regression on volatility
 
