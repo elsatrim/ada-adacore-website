@@ -17,6 +17,7 @@ Our goal is to show how politics and markets move together in a clear, data-driv
 ## What is a sector 
 
 TODO mettre graph Elsa correlation avec cumulative returns
+![[pictures/graph_sectors.png]]
 
 
 ## What is volatility
@@ -25,6 +26,13 @@ TODO mettre graph Elsa correlation avec cumulative returns
 ## What's an event study methodology: how to define abnormal returns
 
 ## Event studies
+
+##### timeline des elections :
+![[pictures/timeline_flourish.jpg]]
+
+#####
+
+![[pictures/car_ytb.png]]
 
 TODO card graph from flourish with presidents heads and on click display the volatility before and after elections like in the graph Elsa made
 
