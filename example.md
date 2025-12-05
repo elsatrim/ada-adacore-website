@@ -2,6 +2,10 @@
 layout: default
 ---
 
+
+<h1>Test</h1>
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
